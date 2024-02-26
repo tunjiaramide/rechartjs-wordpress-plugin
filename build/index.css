@@ -1,0 +1,21 @@
+/*!*******************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/index.css ***!
+  \*******************************************************************************************************************************************************************/
+.chart-cover {
+    border: 1px solid #eee;
+    padding: 20px;
+}
+
+.chart-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.chart-graph {
+    border: 1px solid #eee;
+    padding: 10px;
+}
+
+/*# sourceMappingURL=index.css.map*/

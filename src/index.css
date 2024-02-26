@@ -1,0 +1,16 @@
+.chart-cover {
+    border: 1px solid #eee;
+    padding: 20px;
+}
+
+.chart-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.chart-graph {
+    border: 1px solid #eee;
+    padding: 10px;
+}
